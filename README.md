@@ -1,0 +1,2 @@
+# pokedex_flutter
+简单好用的flutter版Pokedex
